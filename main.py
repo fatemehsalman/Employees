@@ -1,4 +1,7 @@
 from src.emploees import Employee
+"""This is the main menu"""
+
+
 def main():
     employees = []
 
